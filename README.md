@@ -1,7 +1,7 @@
 # Hi there, my name is Mahedi Hasan Khan
 I am a web developer specializing in Laravel and Vue.js. Passionate about bringing ideas to life through coding
 
-Skills: VUE JS / Laravel/ JS / HTML / CSS
+Skills:  HTML / CSS/ JS /VUE JS / PHP/ WordPress / Laravel/
 
 - I’m currently working on nutrobd.com 
 - I’m currently learning laravel 
